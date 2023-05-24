@@ -1,13 +1,10 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Aneong👋,%20I'm%20JN!&fontAlign=50&fontAlignY=40&color=gradient)
 <p align="center">
-  <img src="https://scontent.fwnp1-1.fna.fbcdn.net/v/t1.15752-9/343556118_616699753756169_4720485555822919069_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeGrF8QN50FBOfkEiIbHSKyYhX1kv3zFzz2FfWS_fMXPPWBrIUtu0I_v8uLnsu34XZEDRh0xR-stWp8b2jiB29La&_nc_ohc=EuFem_t0-QwAX-RAq86&_nc_ht=scontent.fwnp1-1.fna&oh=03_AdSKaLUnfFoegRlHnXiBVOmwIKaW12Xruf8bp3ff6Hu4Tg&oe=64958BDC" alt="Additional Image" style="float: center; width: 20%;">
+  <img src="https://scontent.fwnp1-1.fna.fbcdn.net/v/t1.15752-9/343402913_1277839553170564_2123342955138253719_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeGoucNP-OHYr8fMKBdi55wsjvfig10CLT6O9-KDXQItPjDzuotZh0pgltBEKqrC-br-YZ2YQGf8UdDEeRzR42xS&_nc_ohc=yMx9oy3Ygs4AX_ljpJg&_nc_ht=scontent.fwnp1-1.fna&oh=03_AdSiFLx4Q6ZE-BZ2p1v1ijhJHOjO1wp2mw-11D40KLt04w&oe=64958A8F" alt="Additional Image" style="float: center; width: 20%;">
 </p>
 
 
-
-<h1 align="center">Hi 👋, I'm JN</h1>
-<h3 align="center">A passionate frontend developer from Philippine</h3>
-
+![cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=Software%20Engineer&fontAlignY=45&fontSize=40&height=120&animation=blinking&desc=(JN%20Capiz)&descAlignY=70)
 
 - 🔭 I’m currently working on [JMH](JMH)
 
