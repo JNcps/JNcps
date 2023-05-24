@@ -1,19 +1,31 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Aneong👋,%20I'm%20JN!&fontAlign=50&fontAlignY=40&color=gradient)
 <p align="center">
-  <img src="https://scontent.fwnp1-1.fna.fbcdn.net/v/t1.15752-9/343402913_1277839553170564_2123342955138253719_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeGoucNP-OHYr8fMKBdi55wsjvfig10CLT6O9-KDXQItPjDzuotZh0pgltBEKqrC-br-YZ2YQGf8UdDEeRzR42xS&_nc_ohc=yMx9oy3Ygs4AX_ljpJg&_nc_ht=scontent.fwnp1-1.fna&oh=03_AdSiFLx4Q6ZE-BZ2p1v1ijhJHOjO1wp2mw-11D40KLt04w&oe=64958A8F" alt="Additional Image" style="float: center; width: 30%;">
+  <img src="https://scontent.fwnp1-1.fna.fbcdn.net/v/t1.15752-9/343766807_272511921808138_5944325673362193872_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeGVLZDa7NkggsaQF5ZYujXFE-ELceFlW-QT4Qtx4WVb5NjYRsFglbpA58OjPwiqVxF-boCappK5PzblnmI4w2Jb&_nc_ohc=k8DOYEEfhtgAX9gpkJl&_nc_ht=scontent.fwnp1-1.fna&oh=03_AdQ12WIl9iit586hyufIkaLeDRXiFCnN5klr43qfoan3VQ&oe=649592F4" alt="Additional Image" style="float: center; width: 50%;">
 </p>
 
 ![cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=Software%20Engineer&fontAlignY=45&fontSize=40&height=100&animation=blinking&desc=(JN%20Capiz)&descAlignY=70)
 
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working on [JMH](JMH)
-
+<a href="https://github.com/kyechan99/capsule-render/labels/Idea">
+    <img src="https://img.shields.io/badge/CURRENTLY%20WORKING%20ON%20JMH-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
+  </a>
+  
 - 🌱 I’m currently learning **Laravel, Python, PHP**
 
 - 📫 Contact me on Viber **09918120644**
 
-- ⚡ Fun fact **Talented**
+- 👤 Status **Single**
+
+  <a href="#demo">
+    <img src="https://img.shields.io/badge/TOP%20SKILLS-%234FC08D.svg?&style=for-the-badge&&logoColor=white"/>
+  </a>
+  
+- 💻**DATABASE QUERY**
+
+- 💻**ANGULAR**
+
+- 💻**CSS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
