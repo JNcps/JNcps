@@ -3,7 +3,7 @@
   <img src="https://scontent.fwnp1-1.fna.fbcdn.net/v/t1.15752-9/343766807_272511921808138_5944325673362193872_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeGVLZDa7NkggsaQF5ZYujXFE-ELceFlW-QT4Qtx4WVb5NjYRsFglbpA58OjPwiqVxF-boCappK5PzblnmI4w2Jb&_nc_ohc=k8DOYEEfhtgAX9gpkJl&_nc_ht=scontent.fwnp1-1.fna&oh=03_AdQ12WIl9iit586hyufIkaLeDRXiFCnN5klr43qfoan3VQ&oe=649592F4" alt="Additional Image" style="float: center; width: 50%;">
 </p>
 
-![cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=Software%20Engineer&fontAlignY=45&fontSize=40&height=100&animation=blinking&desc=(JN%20Capiz)&descAlignY=70)
+![cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=Developer&fontAlignY=45&fontSize=40&height=100&animation=blinking&desc=(JN%20Capiz)&descAlignY=70)
 
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
