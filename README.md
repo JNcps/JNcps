@@ -1,6 +1,6 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=I'm%20JN!&fontAlign=50&fontAlignY=40&color=gradient)
 <p align="center">
-  <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Additional Image" style="float: center; width: 50%;">
+  <img src="https://avatars.githubusercontent.com/u/111569938?v=4" style="float: center; width: 50%;">
 </p>
 
 ![cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=Developer&fontAlignY=45&fontSize=40&height=100&animation=blinking&desc=(JN%20Capiz)&descAlignY=70)
