@@ -1,6 +1,6 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=I'm%20JN!&fontAlign=50&fontAlignY=40&color=gradient)
 <p align="center">
-  <img src="[https://scontent.fwnp1-1.fna.fbcdn.net/v/t1.15752-9/343766807_272511921808138_5944325673362193872_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeGVLZDa7NkggsaQF5ZYujXFE-ELceFlW-QT4Qtx4WVb5NjYRsFglbpA58OjPwiqVxF-boCappK5PzblnmI4w2Jb&_nc_ohc=k8DOYEEfhtgAX9gpkJl&_nc_ht=scontent.fwnp1-1.fna&oh=03_AdQ12WIl9iit586hyufIkaLeDRXiFCnN5klr43qfoan3VQ&oe=649592F4](https://github.com/account)" alt="Additional Image" style="float: center; width: 50%;">
+  <img src="[[https://scontent.fwnp1-1.fna.fbcdn.net/v/t1.15752-9/343766807_272511921808138_5944325673362193872_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeGVLZDa7NkggsaQF5ZYujXFE-ELceFlW-QT4Qtx4WVb5NjYRsFglbpA58OjPwiqVxF-boCappK5PzblnmI4w2Jb&_nc_ohc=k8DOYEEfhtgAX9gpkJl&_nc_ht=scontent.fwnp1-1.fna&oh=03_AdQ12WIl9iit586hyufIkaLeDRXiFCnN5klr43qfoan3VQ&oe=649592F4](https://github.com/account)](https://avatars.githubusercontent.com/u/111569938?v=4)" alt="Additional Image" style="float: center; width: 50%;">
 </p>
 
 ![cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=Developer&fontAlignY=45&fontSize=40&height=100&animation=blinking&desc=(JN%20Capiz)&descAlignY=70)
