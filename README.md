@@ -15,7 +15,7 @@
 
 - 📫 Contact me on Viber **09918120644**
 
-- 👤 Status **Single**
+- 👤 Status **single**
 
   <a href="#demo">
     <img src="https://img.shields.io/badge/TOP%20SKILLS-%234FC08D.svg?&style=for-the-badge&&logoColor=white"/>
