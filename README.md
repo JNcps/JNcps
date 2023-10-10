@@ -13,11 +13,7 @@
     <img src="https://img.shields.io/badge/CURRENTLY%20WORKING%20ON%20JMH-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
   </a>
   
-- 🌱 I’m currently learning **API**
-
-- 📫 Contact me on Viber **09918120644**
-
-- 👤 Status **Single**
+- 📫 Viber **09918120644**
 
   <a href="#demo">
     <img src="https://img.shields.io/badge/TOP%20SKILLS-%234FC08D.svg?&style=for-the-badge&&logoColor=white"/>
@@ -28,6 +24,10 @@
 - 💻**PYTHON**
   
 - 💻**Django**
+
+- 💻**Flask**
+
+- 💻**API**
   
 - 💻**ANGULAR**
 
