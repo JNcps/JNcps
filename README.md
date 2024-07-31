@@ -21,6 +21,8 @@
   
 - 💻**DATABASE QUERY**
 
+- - 💻**ANGULAR**
+
 - 💻**PYTHON**
   
 - 💻**Django**
@@ -28,8 +30,8 @@
 - 💻**Flask**
 
 - 💻**API**
-  
-- 💻**ANGULAR**
+
+- 💻**PHP**
 
 - 💻**CSS**
 
