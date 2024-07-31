@@ -21,7 +21,7 @@
   
 - 💻**DATABASE QUERY**
 
-- - 💻**ANGULAR**
+- 💻**ANGULAR**
 
 - 💻**PYTHON**
   
